@@ -6,7 +6,7 @@ weight: 30
 
 * [Introduction](#introduction)
 * [Assessing Readiness for Open Source and OSPO](#assessing-readiness-for-open-source-and-ospo) - `✅ Assessment`
-* [Antipatterns](#antipatterns) - `🚫 OSPO Antipatterns`
+* [Anti-patterns](#anti-patterns) - `🚫 OSPO Antipatterns`
 * [Resources](#resources) - `📚 Continue Here`
 
 ## Introduction
@@ -48,7 +48,7 @@ In the following chapters, we will explore the key components of an OSPO, and pr
 
 * Open Source Gatekeeper: OSPOs can help to enforce OS policies and strengthen OS governance. This can help organizations to ensure compliance and mitigate OS security risks.
 
-[HOW] The way the people behind an OSPO achieve this is by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement. The OSPO's strategy focuses on aligning the organization's open source goals with its overall organization objectives.
+[HOW] The way the people behind an OSPO achieve this is by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement. The OSPO strategy focuses on aligning the organization's open source goals with its overall organization objectives.
 
 [WHY] An OSPO serves as a vital bridge between an organization and the open source community, helping to ensure that the organization is a good steward of open source software and can reap the benefits of open source adoption while minimizing risks.
 
@@ -111,11 +111,11 @@ Assessing open source adoption is critical because it sets the foundation for su
 
 If the organization decides to establish an OSPO (as an entity) or integrate OSPO roles, it is crucial to assess the transmission of knowledge to different internal and external *open source players* that have a direct or indirect impact on the OSPO. This section examines the OSPO from four different perspectives:
 
-* Looking downward: as the head of an OSPO, managing the team's tasks is a fundamental responsibility. Depending on the OSPO's objectives, the team's responsibilities may vary, but effective management is essential.
+* Looking downward: as the head of an OSPO, managing the team's tasks is a fundamental responsibility. Depending on the OSPO objectives, the team's responsibilities may vary, but effective management is essential.
 
 * Looking upward: if proposing the creation of an OSPO, managing expectations and aligning with executives' technology needs is necessary.
 
-* Looking sideways: collaboration with other teams is critical. For instance, in business-oriented OSPOs, collaborating with the dev tools and security teams is necessary.
+* Looking sideways: collaboration with other teams is critical. For instance, in business-oriented OSPOs, collaborating with the developer tools and security teams is necessary.
 
 * Looking outside: representing the organization to external communities and foundations is crucial. The integration strategy must align with the organization's objectives and vision.
 
@@ -125,7 +125,7 @@ As an example, the following [diagram](https://lists.todogroup.org/g/ospo-book-p
 
 In Chapters 3 and 6, we will delve deeper into how an OSPO can effectively address knowledge transmission across various open source players and highlight some best practices utilized by different organizations.
 
-## Antipatterns
+## Anti-patterns
 
 `🚫 OSPO Antipatterns`
 
