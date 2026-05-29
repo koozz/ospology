@@ -1,5 +1,5 @@
 ### Open Source in Business: Spotify and Backstage
-
+Note: This use case is based on information gathered through a direct interview with the organization and was reviewed with the interviewee before publication.
 A successful open source project can position a company as a thought leader, help recruit top talent and build the company’s brand. In some cases, though, it can also become a new revenue stream. Backstage by Spotify is a good example of just that. 
 
 Even before the creation of Backstage, Spotify had had a history of creating cutting edge technology in-house that would then eventually be replaced by new external technology that would become an industry standard. For example, Spotify had its own container technology before Docker came along, but it was eventually abandoned as Docker became ubiquitous. 
