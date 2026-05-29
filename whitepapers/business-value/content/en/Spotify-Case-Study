@@ -31,7 +31,7 @@ As the project started to get traction in the wider community, it got more visib
 
 Unexpectedly, releasing Backstage as an open source project also changed Spotify’s relationship with many of its software vendors. On the one hand, Spotify remained their customer; on the other hand Spotify would be promoting their vendor’s software as a plugin on Backstage. This changed the vendor relationship and gave Spotify a very different kind of leverage in negotiations with software vendors. 
 
-## Lessons for other companies
+#### Lessons for other companies
 
 When you’re creating an open source project, there should be a clear rationale for doing so. “At any point in time, there shouldn’t be any question in the company about why this thing exists,” Greul said. This doesn’t mean that it is fixed in stone – the company’s goals in creating the open source project can and should change as the project matures and as there are surprises, both positive and negative. However, there should always be a strategy in place that the company is aligned around. 
 
