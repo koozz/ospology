@@ -9,7 +9,7 @@ When Backstage was first developed, the team wanted to avoid having to migrate t
 
 Making Backstage the industry standard seemed far-fetched at the beginning, but the more concrete goal was to amortize the investment in development and to get external contributions, both in terms of innovative ideas and feedback as well as concrete development that would help maintain the project. “We thought, if we’re lucky, this becomes the next ubiquity,” said Helen Greul, engineering manager at Spotify at the time. “Which is sort of what happened. We’ve created a new product niche.”
 
-## Getting Ready for Launch
+#### Getting Ready for Launch
 
 The main sponsor behind open sourcing Backstage was Tyson Singer, the VP of Platform. But the project had widespread support within the company, ranging from the board to product managers and individual developers. The main goal at the beginning was attracting contributions, but the original Backstage, which was seven years old at the time, had a lot of Spotify-specific semantics and was written in Java. The team decided to re-write the entire project in TypeScript to increase the chances that it would attract contributions. 
 
