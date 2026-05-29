@@ -11,7 +11,7 @@ Making Backstage the industry standard seemed far-fetched at the beginning, but 
 
 ## Getting Ready for Launch
 
-The main sponsor behind open sourcing Backstage was Tyson Singer, the VP of Platform. But the project had widespread support within the company, ranging from the board to to product managers and individual developers. The main goal at the beginning was attracting contributions, but the original Backstage, which was seven years old at the time, had a lot of Spotify-specific semantics and was written in Java. The team decided to re-write the entire project in TypeScript to increase the chances that it would attract contributions. 
+The main sponsor behind open sourcing Backstage was Tyson Singer, the VP of Platform. But the project had widespread support within the company, ranging from the board to product managers and individual developers. The main goal at the beginning was attracting contributions, but the original Backstage, which was seven years old at the time, had a lot of Spotify-specific semantics and was written in Java. The team decided to re-write the entire project in TypeScript to increase the chances that it would attract contributions. 
 
 Even after launch, the team continued to make an effort to attract contributions. First of all, Backstage was promoted by Spotify; on the company blog and social media. Spotify already had a strong engineering brand, and many people were genuinely excited to see how the sausage was made. But there was also an effort to follow best practices by marking good first issues, by engaging the community in conversation and by merging pull requests quickly – sometimes there would be a hundred pull requests merged in a day. 
 
