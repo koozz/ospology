@@ -1,6 +1,5 @@
 ### Open Source in Business: Spotify and Backstage
 
-
 A successful open source project can position a company as a thought leader, help recruit top talent and build the company’s brand. In some cases, though, it can also become a new revenue stream. Backstage by Spotify is a good example of just that. 
 
 Even before the creation of Backstage, Spotify had had a history of creating cutting edge technology in-house that would then eventually be replaced by new external technology that would become an industry standard. For example, Spotify had its own container technology before Docker came along, but it was eventually abandoned as Docker became ubiquitous. 
@@ -15,9 +14,7 @@ The main sponsor behind open sourcing Backstage was Tyson Singer, the VP of Plat
 
 Even after launch, the team continued to make an effort to attract contributions. First of all, Backstage was promoted by Spotify; on the company blog and social media. Spotify already had a strong engineering brand, and many people were genuinely excited to see how the sausage was made. But there was also an effort to follow best practices by marking good first issues, by engaging the community in conversation and by merging pull requests quickly – sometimes there would be a hundred pull requests merged in a day. 
 
-
 #### The role of business stakeholders
-
 
 At the beginning, business stakeholders at Spotify weren’t particularly interested in Backstage – their attitude was more that it couldn’t hurt, and the main advantage business stakeholders saw from creating the project was centered around building Spotify’s brand as an employer and thought leader in cutting-edge engineering practices. “They didn’t expect much,” Greul said. “I think they were pleasantly surprised.” 
 
