@@ -1,5 +1,7 @@
 ### Open Source in Business: Spotify and Backstage
-Note: This use case is based on information gathered through a direct interview with the organization and was reviewed with the interviewee before publication.
+
+> Note: This use case is based on information gathered through a direct interview with the organization and was reviewed with the interviewee before publication.
+
 A successful open source project can position a company as a thought leader, help recruit top talent and build the company’s brand. In some cases, though, it can also become a new revenue stream. Backstage by Spotify is a good example of just that. 
 
 Even before the creation of Backstage, Spotify had had a history of creating cutting edge technology in-house that would then eventually be replaced by new external technology that would become an industry standard. For example, Spotify had its own container technology before Docker came along, but it was eventually abandoned as Docker became ubiquitous. 
@@ -22,7 +24,7 @@ There was no pushback from the executive stakeholders at the beginning, largely 
 
 As the project started to get traction in the wider community, it got more visibility internally as well. Within the first year, the team was starting to evaluate the size of the opportunity and thinking about Backstage as a real internal startup. They started talking about donating the project to the Cloud Native Computing Foundation (CNCF), for example. It became increasingly clear that there was a business opportunity and that Backstage was solving a pain point that no one else had solved. Backstage’s success as an open source project also coincided with a push at the executive level to think about diversifying Spotify’s revenue streams away from the core music streaming business. So the executive team gave it the green light to go ahead to experiment with monetization; as the monetization project matured, the team started reporting directly to the C-suite and tracking business metrics as well as typical open source metrics like GitHub stars. 
 
-*Insert info about Backstage as a revenue stream here… from Spotify annual report.* 
+> TODO: *Insert info about Backstage as a revenue stream here… from Spotify annual report.* 
 
 #### Relationship building
 
